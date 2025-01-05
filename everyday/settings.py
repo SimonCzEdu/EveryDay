@@ -33,7 +33,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '8000-simonczedu-everyday-4c1jta82h45.ws.codeinstitute-ide.net',
-    'everyday-first-draft.herokuapp.com'
+    'https://everyday-first-draft-19c74b62a9d3.herokuapp.com/'
     ]
 
 
