@@ -1,1 +1,1 @@
-web: gunicorn everyday.wsgi:application
+web: gunicorn everyday-first-draft.wsgi:application
