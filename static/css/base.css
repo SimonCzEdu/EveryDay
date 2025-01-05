@@ -70,6 +70,16 @@ body {
 	z-index: -1;
 }
 
+a.category-badge > span.badge:hover {
+    background: #212529 !important;
+    color: #fff !important;
+}
+
+/* Custom padding for main nav */
+.navbar {
+    padding: 0.5rem 1rem 0 1rem ;
+}
+
 /* -------------------------------- Media Queries */
 
 /* Slightly larger container on xl screens */
