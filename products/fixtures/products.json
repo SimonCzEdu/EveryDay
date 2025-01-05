@@ -1,0 +1,597 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "category": 1,
+        "sku": "veg_carrot001",
+        "name": "Carrots",
+        "description": "Pack size: 500G\r\nProduce of France, United Kingdom, Republic of Ireland",
+        "price": "2.39",
+        "rating": "3.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "veg_carrots_loose_5qH7dFn.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "category": 1,
+        "sku": "veg_potato001",
+        "name": "Potatoes",
+        "description": "Irish Rooster Potatoes\r\nPack size: 2.5KG",
+        "price": "3.59",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "veg_potatoes_6aWGSZm.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "category": 1,
+        "sku": "veg_tomatoes001",
+        "name": "Tomatoes",
+        "description": "Organic Tomatoes Produce of Canary Islands, United Kingdom, Republic of Ireland, Netherlands, Poland",
+        "price": "2.99",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "veg_tomatoes_WdA4hNr.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "category": 1,
+        "sku": "veg_leek001",
+        "name": "Leeks",
+        "description": "Organic leeks 300g\r\n\"Taste first. Planet, always\"",
+        "price": "1.55",
+        "rating": "3.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "veg_leeks_ZuZoPn0.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "category": 2,
+        "sku": "fruit_apple001",
+        "name": "Apple",
+        "description": "Pink Lady Loose Produce of South Africa",
+        "price": "5.69",
+        "rating": "4.50",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "fruit_apples_loose_AZiVLkz.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "category": 2,
+        "sku": "fruit_bananas001",
+        "name": "Bananas",
+        "description": "Banana. Responsibly Grown. Hand picked and gently ripened with a sweet flavour.",
+        "price": "4.35",
+        "rating": "4.30",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "fruit_bananas_loose_QpbCiSr.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "category": 2,
+        "sku": "fruit_pear001",
+        "name": "Pears",
+        "description": "Conference Pear",
+        "price": "3.99",
+        "rating": "3.80",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "fruit_pears_SQzcyAT.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "category": 2,
+        "sku": "fruit_lemons001",
+        "name": "Lemons",
+        "description": "Sharp and zingy NOT SUITABLE FOR VEGANS \r\nPost Harvest Treatments & wax by Country of Origin: Spain",
+        "price": "3.65",
+        "rating": "3.50",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "fruit_lemons_JGi7HOe.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+        "category": 2,
+        "sku": "fruit_oranges001",
+        "name": "Oaranges",
+        "description": "Sharp and zingy NOT SUITABLE FOR VEGANS \r\nPost Harvest Treatments & wax by Country of Origin: Spain",
+        "price": "5.99",
+        "rating": "4.30",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "fruit_oranges_rJ8ee9L.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+        "category": 3,
+        "sku": "pastry_doughnuts001",
+        "name": "Doughnuts",
+        "description": "Doughnuts with a raspberry jam filling and dusted with sugar.",
+        "price": "2.50",
+        "rating": "4.90",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pastry_doughnuts_pack_viVgHsZ.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+        "category": 3,
+        "sku": "pastry_pretzels001",
+        "name": "Pretzels",
+        "description": "CUISINE DE FRANCE Lye Pretzel 85g",
+        "price": "1.29",
+        "rating": "2.50",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pastry_pretzels_PqBS5v7.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+        "category": 3,
+        "sku": "pastry_danish001",
+        "name": "Danish",
+        "description": "CUISINE DE FRANCE\r\nAssortment of Danish Pastries",
+        "price": "0.99",
+        "rating": "4.90",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pastry_danish_mDF3E83.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+        "category": 3,
+        "sku": "pastry_cina_roll001",
+        "name": "Cinnamon Rolls",
+        "description": "Et Voila Cinnamon Swirl\r\nSuitable for vegetarians",
+        "price": "0.89",
+        "rating": "4.20",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pastry_cinnamon_rolls_4Y2DTJl.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+        "category": 4,
+        "sku": "bread_sourdough001",
+        "name": "Sourdough",
+        "description": "Sourdough Bloomer 505g\r\nA soft white sourdough bloomer",
+        "price": "2.39",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "bread_sourdough_ku8Vb7N.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+        "category": 4,
+        "sku": "bread_soda_bread001",
+        "name": "Soda Bread",
+        "description": "Sliced Square Brown Soda Bread\r\nSimple recipe. Tasted and approved by customers.",
+        "price": "2.69",
+        "rating": "2.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "bread_soda_9pvtPxB.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+        "category": 4,
+        "sku": "bread_brown_full_grain001",
+        "name": "Brown Full Grain",
+        "description": "Wholemeal sliced bread",
+        "price": "3.55",
+        "rating": "3.80",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "bread_brown_full_grain_hyET1df.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+        "category": 5,
+        "sku": "milk_skim001",
+        "name": "Skimmed",
+        "description": "Pasteurised & Homogenised Semi Skimmed Milk",
+        "price": "2.49",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "milk_skimmed_unp3pI6.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+        "category": 5,
+        "sku": "milk_full_fat001",
+        "name": "Full Fat",
+        "description": "Pasteurised Homogenised Full Fat Milk",
+        "price": "3.69",
+        "rating": "4.90",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "milk_full_fat_UtU3dXA.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+        "category": 5,
+        "sku": "milk_oat001",
+        "name": "Oat Milk",
+        "description": "Foamable oat drink with added vitamins and minerals.",
+        "price": "4.59",
+        "rating": "3.90",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "milk_oat_gaBDrGM.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+        "category": 5,
+        "sku": "milk_lact_free001",
+        "name": "Lactose Free",
+        "description": "Pasteurised and homogenised low fat lactose free milk drink\r\n100% Irish Milk From farms in the Republic of Ireland",
+        "price": "3.89",
+        "rating": "4.70",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "milk_lactose_free_ErborDh.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+        "category": 6,
+        "sku": "butter_salt001",
+        "name": "Salted Butter",
+        "description": "Salted Traditional Irish Butter\r\nSummer Milk\r\nNaturally Softer Butter",
+        "price": "4.45",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "butter_salted_eHdK6CV.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+        "category": 6,
+        "sku": "butter_unsalt001",
+        "name": "Butter (Unsalted)",
+        "description": "Unsalted Butter\r\nPack size: 227G",
+        "price": "4.29",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "butter_unsalted_7S1iYFz.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+        "category": 7,
+        "sku": "cheese_gouda001",
+        "name": "Gouda",
+        "description": "Gouda cheese, maturing\r\nPacked under a protective atmosphere",
+        "price": "4.00",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "cheese_gouda_eMw30x9.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+        "category": 7,
+        "sku": "cheese_emmentaler001",
+        "name": "Emmenthaler",
+        "description": "Emmenthal is a yellow, medium-hard cheese that originated in the Emme valley, Switzerland",
+        "price": "6.49",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "cheese_emmentaler_EpXjI9s.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+        "category": 7,
+        "sku": "cheese_brie001",
+        "name": "Brie",
+        "description": "Full fat soft cheese made with unpasteurised cow's milk",
+        "price": "4.79",
+        "rating": "3.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "cheese_brie_rcwBhQT.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+        "category": 7,
+        "sku": "cheese_stilton001",
+        "name": "Stilton",
+        "description": "A multi award winning Aged Blue Stilton® with a rich yet mellow flavour and a creamy, smooth texture",
+        "price": "6.55",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "cheese_stilton_5OwmGO3.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+        "category": 8,
+        "sku": "chicken_breast001",
+        "name": "Chicken  Breast",
+        "description": "Irish Chicken Fed on a cereal based diet for a succulent texture",
+        "price": "5.99",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "poultry_chicken_breast_xzQJPd3.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 28,
+    "fields": {
+        "category": 8,
+        "sku": "chicken_thighs001",
+        "name": "Chicken Thighs",
+        "description": "Fresh Class A Irish chicken boneless thighs",
+        "price": "6.50",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "poultry_chicken_thigh_K5SQisD.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 29,
+    "fields": {
+        "category": 8,
+        "sku": "chicken_wings001",
+        "name": "Chicken Wings",
+        "description": "Irish Chicken Wings\r\nIRISH CHICKEN Fed on a cereal based diet for a succulent texture",
+        "price": "5.55",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "poultry_chicken_wings_H6pRZ6X.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+        "category": 8,
+        "sku": "chicken_drumsticks001",
+        "name": "Chicken Drumsticks",
+        "description": "Fresh Class A Irish chicken drumsticks with skin on",
+        "price": "5.65",
+        "rating": "4.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "poultry_chicken_drumsticks_IC2VrBL.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+        "category": 9,
+        "sku": "beef_ribey001",
+        "name": "Ribeye",
+        "description": "Certified Irish Angus beef ribeye steaks",
+        "price": "6.99",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "beef_ribeye_steak_tijLafg.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+        "category": 9,
+        "sku": "beef_ground001",
+        "name": "Ground Beef",
+        "description": "Irish beef steak mince. Typical percentage of fat content under 10%.",
+        "price": "4.59",
+        "rating": "4.50",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "beef_ground_XuBRsb6.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 33,
+    "fields": {
+        "category": 9,
+        "sku": "beef_sirloin001",
+        "name": "Sirloin",
+        "description": "Certified Irish Angus beef sirloin steaks",
+        "price": "5.99",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "beef_sirloin_steak_e2UD1nE.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 34,
+    "fields": {
+        "category": 10,
+        "sku": "pork_chops001",
+        "name": "Pork Chops",
+        "description": "Irish Pork Loin Chops 100% Irish Pork Quick and convenient, a flavoursome cut",
+        "price": "4.59",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pork_chops_C0eBQTv.jpg"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 35,
+    "fields": {
+        "category": 10,
+        "sku": "pork_join001",
+        "name": "Pork Joint",
+        "description": "100% Irish pork. Rolled & tied by our expert butchers for easy carving.",
+        "price": "4.49",
+        "rating": "5.00",
+        "has_promo_one": false,
+        "has_promo_two": false,
+        "has_promo_three": false,
+        "image_url": null,
+        "image": "pork_joint_G46V8a2.jpg"
+    }
+}
+]

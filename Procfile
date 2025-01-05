@@ -1,0 +1,1 @@
+web: gunicorn everyday.wsgi:application

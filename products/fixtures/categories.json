@@ -1,0 +1,114 @@
+[
+{
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+        "name": "vegetables",
+        "friendly_name": "Vegetables"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+        "name": "fruits",
+        "friendly_name": "Fruits"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+        "name": "pastry",
+        "friendly_name": "Pastry"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+        "name": "bread",
+        "friendly_name": "Bread"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 5,
+    "fields": {
+        "name": "milk",
+        "friendly_name": "Milk"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 6,
+    "fields": {
+        "name": "butter",
+        "friendly_name": "Butter"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 7,
+    "fields": {
+        "name": "cheese",
+        "friendly_name": "Cheese"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 8,
+    "fields": {
+        "name": "poultry",
+        "friendly_name": "Poultry"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 9,
+    "fields": {
+        "name": "beef",
+        "friendly_name": "Beef"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 10,
+    "fields": {
+        "name": "pork",
+        "friendly_name": "Pork"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 11,
+    "fields": {
+        "name": "dairy",
+        "friendly_name": "Dairy"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 12,
+    "fields": {
+        "name": "fresh_produce",
+        "friendly_name": "Fresh Produce"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 13,
+    "fields": {
+        "name": "baked_goods",
+        "friendly_name": "Baked Goods"
+    }
+},
+{
+    "model": "products.category",
+    "pk": 14,
+    "fields": {
+        "name": "meats",
+        "friendly_name": "Meats"
+    }
+}
+]
