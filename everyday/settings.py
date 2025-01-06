@@ -32,7 +32,7 @@ else:
     SECRET_KEY = 'SECRET_KEY'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-simonczedu-everyday-4c1jta82h45.ws.codeinstitute-ide.net',
